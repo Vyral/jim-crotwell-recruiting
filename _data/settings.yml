@@ -21,7 +21,7 @@ client:
   phone2:
   phone2_type:
   email: JimCrotwell@kw.com
-  url: https://JimCrotwell.kwrealty.com
+  url: http://jimcrotwell.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
