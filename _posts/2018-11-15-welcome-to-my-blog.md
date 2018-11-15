@@ -1,8 +1,8 @@
 ---
 youtube_code:
 excerpt: >-
-  Being on a team that facilitates personal growth and team building is crucial
-  in real estate. Learn how we'll
+  Learn how our, tips, tools, and insight into the market can help you advance
+  your career in real estate!
 enclosure:
 pullquote:
 enclosure_type:
@@ -18,7 +18,7 @@ tags:
   - Listing Presentation
 ---
 
-My mission on this blog site is to provide you with the necessary lead generation<br>and technology tools to, in turn, provide buyers and sellers in Southern California with the highest quality and most professional real estate services possible.&nbsp;
+My mission on this blog site is to provide you with the necessary lead generation and technology tools to, in turn, provide buyers and sellers in Southern California with the highest quality and most professional real estate services possible.&nbsp;
 
 I have a strong grasp of the Southern California real estate market and how it can directly affect you and your business.
 
