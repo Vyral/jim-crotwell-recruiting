@@ -1,5 +1,5 @@
 audit_header: false
-title: "Orange County's Best Real Estate Training"
+title: "North County Real Estate Careers"
 description: Jim Crotwell, a top Real Estate Agent in Orange County, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: false
 custom_links:
@@ -16,7 +16,7 @@ client:
   brand: Keller Williams Realty Carlsbad
   brokerage:
   address: '6005 Hidden Valley Road, #200<br>Carlsbad, CA 92011'
-  phone: 562-810-8020
+  phone: 760-496-3920
   phone_type:
   phone2:
   phone2_type:
@@ -51,7 +51,7 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/kellerwilliamscarlsbad/
   linkedin_url:
   gplus_url:
   youtube_url:
