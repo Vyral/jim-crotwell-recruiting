@@ -1,8 +1,8 @@
 ---
 youtube_code:
 excerpt: >-
-  Learn how my tips, tools, and insight into the market can help you advance
-  your career in real estate!
+  Learn how to advance your career in real estate with my tips, tools, and
+  insight into the market.
 enclosure:
 pullquote:
 enclosure_type:
