@@ -1,10 +1,16 @@
 audit_header: false
 title: "North County Real Estate Careers"
 description: Jim Crotwell, a top Real Estate Agent in Orange County, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Why KW Now?
+    url: http://www.kw.com/kw/TheDifference.html
+  - title: Careers Worth Having
+    url: http://www.kw.com/kw/careers-in-real-estate.html
+  - title: Our Belief System
+    url: http://www.kw.com/kw/mvvbp.html
+  - title: Profit Sharing Report
+    url: http://images.kw.com/kw/user_uploads/US-profit%20share%20and%20growth%20share%20white%20paper.pdf
 
 client:
   name: Jim Crotwell
@@ -30,12 +36,12 @@ sidebar_CTA:
     CTA_link_text: "Free Strategy Session"
     CTA_url: /contact/
 
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Join Our Team"
-#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
-#     CTA_link_text2: "Career Info"
-#     CTA_url2: /
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/002.png
+    CTA_title2: "GET IT FREE: The Millionaire Real Estate Agent Book"
+    CTA_text2: "Let's visit about how to help you be more successful at your San Diego real estate career. When we meet you'll get a free copy of the best-selling book The Millionaire Real Estate Agent: It's Not About the Money...It's About Being the Best You Can Be! Absolutely no-obligation. It's yours to keep."
+    CTA_link_text2: "Contact Me"
+    CTA_url2: /contact/
 
 lender:
   show_section: false
@@ -52,9 +58,8 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/kellerwilliamscarlsbad/
-  linkedin_url:
-  gplus_url:
-  youtube_url:
+  linkedin_url: https://www.linkedin.com/in/jimcrotwell/
+  youtube_url: https://www.youtube.com/channel/UCwb6otzzsDBC2RR6GPBPygg
   twitter_url:
   instagram_url:
   pinterest_url:

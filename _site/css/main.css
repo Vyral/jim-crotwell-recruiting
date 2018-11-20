@@ -1406,7 +1406,7 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 250px;
+    max-width: 150px;
     margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
@@ -1486,7 +1486,7 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 7.5rem; }
+  padding-top: 5rem; }
 
 .site-logo {
   width: 90%;
