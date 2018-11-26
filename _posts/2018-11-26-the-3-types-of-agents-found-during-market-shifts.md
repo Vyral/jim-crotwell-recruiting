@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The 3 Types of Agents Found During Market Shifts
-date: 2018-11-26 19:58:04
+date: 2018-11-26 07:58:00
 tags:
-  - Market Update
 excerpt: >-
   Today I wanted to discuss the book “The Shift.” It is extremely important in
   relation to what’s going on in our current market.
@@ -38,5 +37,3 @@ Clearly, I recommend approaching the shifting market with a realist’s attitude
 Here’s an interesting statistic: The last time we had a shift in the market about 10 years ago, Keller Williams was the No. 4 real estate company in the nation. We emerged from that shift as the No. 1 company. That means those realist agents, who studied proven models and systems, were attracted to our business and succeeded by joining us.
 
 That period was a lot like today—the market is shifting again. With that in mind, I want to invite you to come pick up a free copy of “The Shift.” I’d be happy to share it with you, and when you’ve read it, we can talk about it further, if you’d like. There are actually 12 tactics to engage in the shift and see it less as a scary market change and more as what we call “the gift of the shift.”<br><br>If you would like a free copy of “The Shift” or you have any other questions, feel free to reach out and contact me. I look forward to speaking with you.
-
-&nbsp;
