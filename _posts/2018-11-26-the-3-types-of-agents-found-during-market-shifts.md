@@ -3,6 +3,9 @@ layout: post
 title: The 3 Types of Agents Found During Market Shifts
 date: 2018-11-26 07:58:00
 tags:
+  - Lead Conversion
+  - Lead Generation
+  - Listing Presentation
 excerpt: >-
   Today I wanted to discuss the book “The Shift.” It is extremely important in
   relation to what’s going on in our current market.
