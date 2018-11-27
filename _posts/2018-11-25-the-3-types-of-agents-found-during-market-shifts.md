@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 22eNPVUKgkc
+youtube_code: XCyY26ZBOvs
 ---
 
 {% include youtube.html %}
@@ -39,4 +39,4 @@ Clearly, I recommend approaching the shifting market with a realist’s attitude
 
 Here’s an interesting statistic: The last time we had a shift in the market about 10 years ago, Keller Williams was the No. 4 real estate company in the nation. We emerged from that shift as the No. 1 company. That means those realist agents, who studied proven models and systems, were attracted to our business and succeeded by joining us.
 
-That period was a lot like today—the market is shifting again. With that in mind, I want to invite you to come pick up a free copy of “The Shift.” I’d be happy to share it with you, and when you’ve read it, we can talk about it further, if you’d like. There are actually 12 tactics to engage in the shift and see it less as a scary market change and more as what we call “the gift of the shift.”<br><br>If you would like a free copy of “The Shift” or you have any other questions, feel free to reach out and contact me. I look forward to speaking with you.
+That period was a lot like today—the market is shifting again. With that in mind, I want to invite you to come pick up a free copy of “The Shift.” I’d be happy to share it with you, and when you’ve read it, we can talk about it further, if you’d like. There are actually 12 tactics to engage in during the shift and see it less as a scary market change and more as what we call “the gift of the shift.”<br><br>If you would like a free copy of “The Shift” or you have any other questions, feel free to reach out and contact me. I look forward to speaking with you.
