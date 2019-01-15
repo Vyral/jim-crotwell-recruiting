@@ -1,7 +1,7 @@
 ---
 layout: post
-title: KW Has Revolutionized Home Searching For Both Agents and Consumers
-date: 2019-01-14 16:07:20
+title: KW Has Revolutionized Home Searching for Both Agents and Consumers
+date: 2019-01-14 16:07:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -28,7 +28,7 @@ Searching for homes on mobile devices is all the rage nowadays, and it has becom
 
 We fully expect this to be the preferred consumer experience; the app has been introduced to focus groups all over the country over the last six to nine months, and we’ve been developing it intensely these past two years.
 
-I encourage you to pay attention to your email and to take me up on one of our mastermind meetings to really see what’s going on with this Keller Williams mobile search app. **It’s designed to help you, the real estate agent, to stay in charge of your business and deliver the No. 1 consumer experience to your customer.**
+I encourage you to pay attention to your email and to take me up on one of our mastermind meetings to really see what’s going on with this Keller Williams mobile search app. **It’s designed to help you, the real estate agent, stay in charge of your business and deliver the No. 1 consumer experience.**
 
 If you have any questions or would like more information about this app, feel free to reach out to me.
 
