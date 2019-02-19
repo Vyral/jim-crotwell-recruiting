@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Makes Agent Support at Keller Williams so Different?
-date: 2019-02-15 16:04:49
+title: What Makes Agent Support at Keller Williams So Different?
+date: 2019-02-15 16:04:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: wTJzmUHP700
+youtube_code: 1IQiYoodhNY
 ---
 
 {% include youtube.html %}
@@ -26,7 +26,7 @@ Allow me to introduce you to the Agent Leadership Council (ALC). Every Keller Wi
 
 {% include pullquote.html %}
 
-Keller Williams market centers are intrinsically agent centric, given that they are literally run by their agents. There are three things about how ALC’s run their market centers that I believe to be the most impactful:
+Keller Williams market centers are intrinsically agent-centric, given that they are literally run by their agents. There are three offerings that the ALC employs to run their market centers that I believe to be most impactful:
 
 1. **The monthly masterminds.** Imagine what it would do for your business if you were able to learn directly from your market center’s top-producing agents.
 2. **The Ignite Program.** This 12-session jumpstart program has played a major role in helping Keller Williams maintain its status as the No. 1 training company in the world.
@@ -34,6 +34,4 @@ Keller Williams market centers are intrinsically agent centric, given that they 
 
 The bottom line is that Keller Williams offers a culture of collaboration. We are all in this together.
 
-If you have any other questions or would like more information, feel free to give me a call, send me an email, or click here to get in touch. I look forward to hearing from you soon.
-
-&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
