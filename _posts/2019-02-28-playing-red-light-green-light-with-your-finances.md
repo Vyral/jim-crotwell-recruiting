@@ -30,4 +30,4 @@ Here at Keller Williams, we have a formula and a tool to manage your expenses an
 
 Based on the experiences of our producing agents locally and around the country, we know what areas need to be red and what areas need to be green. We share that information with our agents and coach them on those areas because we know that **you can’t build your business just by cutting expenses; you have to continue your lead generation**. You can, however, find your profit and protect it by playing ‘red light, green light.’ It’s a fantastic tool, but not enough agents are utilizing it like they should.
 
-If you’d like a free copy of Gary Keller’s “Shift,” click here. For any other questions you may have, feel free to reach out to me. I’d be glad to have a conversation with you.
+If you’d like a free copy of Gary Keller’s “Shift,” [click here](https://kwcareerquest.com/contact/){: target="_blank"}. For any other questions you may have, feel free to reach out to me. I’d be glad to have a conversation with you.
