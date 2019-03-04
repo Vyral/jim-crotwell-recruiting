@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playing ‘Red Light, Green Light’ With Your Finances'
-date: 2019-02-28 15:06:04
+date: 2019-02-28 15:06:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -15,12 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: bAi3oFzzMFM
+youtube_code: uJRgUxbGjpA
 ---
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 By playing ‘red light, green light,’ I’m referring to managing expenses, which is one of the most important things you can do in a shifting market.
 
