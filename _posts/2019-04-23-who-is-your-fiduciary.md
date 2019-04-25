@@ -21,9 +21,9 @@ youtube_code: '-WxaKWGgj4M'
 
 {% include youtube.html %}
 
-The term “fiduciary” is one you’ve likely heard, but may not understand as well as you’d like. The good news is that its meaning is simpler than you might think. A fiduciary is simply the person responsible for a given business.&nbsp;
+Fiduciary” is a term you’ve probably heard but may not understand as well as you’d like. The good news is that its meaning is simpler than you might think: A fiduciary is simply the person responsible for a given business.
 
-However, as you may remember from my previous installment into this technology series ([which you can watch here](https://kwcareerquest.com/how-technology-has-changed-real-estate-for-good.html){: target="_blank"}), **technology no longer merely helps agents succeed in their business—it’s actually beginning to take business from them.&nbsp;**
+However, as you may remember from [my previous installment in this technology series](https://kwcareerquest.com/how-technology-has-changed-real-estate-for-good.html){: target="_blank"}, **technology no longer merely helps agents succeed in their business—it’s actually beginning to take business from them.**
 
 Technology is now becoming the fiduciary, rather than simply assisting the fiduciary, of real estate businesses with increasing frequency. Sellers who work with these companies don’t select an agent specifically, they simply take what they’re given.&nbsp;
 
@@ -34,5 +34,3 @@ Don’t let this scare you, though. The days of technology truly taking over won
 So how do you keep your business within this first category? How do you retain the role of a fiduciary? **The first step you should take is to visit [https://technology.kw.com/](https://technology.kw.com/){: target="_blank"}.&nbsp;**
 
 After you’ve done that, feel free to reach out. If you have any other questions or would like more information, please give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
