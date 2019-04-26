@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Who Is Your Fiduciary?
-date: 2019-04-23 16:03:27
+title: Who Is The Fiduciary?
+date: 2019-04-23 16:03:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: '-WxaKWGgj4M'
 
 {% include youtube.html %}
 
-Fiduciary” is a term you’ve probably heard but may not understand as well as you’d like. The good news is that its meaning is simpler than you might think: A fiduciary is simply the person responsible for a given business.
+"Fiduciary” is a term you’ve probably heard but may not understand as well as you’d like. The good news is that its meaning is simpler than you might think: A fiduciary is simply the person responsible for a given business.
 
 However, as you may remember from [my previous installment in this technology series](https://kwcareerquest.com/how-technology-has-changed-real-estate-for-good.html){: target="_blank"}, **technology no longer merely helps agents succeed in their business—it’s actually beginning to take business from them.**
 
