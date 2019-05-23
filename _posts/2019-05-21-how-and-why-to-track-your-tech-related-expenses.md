@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How (and Why) to Track Your Tech-Related Expenses
-date: 2019-05-21 20:31:45
+date: 2019-05-21 20:31:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -31,7 +31,7 @@ However much you’re spending on technology right now, you need to be aware of 
 
 Once you know how much you’re spending, you can then assess whether all of the things you’re investing in are worth it. Every cent you spend should bring you a return in one way or another.&nbsp;
 
-In the near future, though, you’ll be able to eliminate many of these expenses altogether, as **Keller Williams’ is currently rolling out a new end-to-end technology platform that is free to all KW agents.&nbsp;**
+In the near future, though, you’ll be able to eliminate many of these expenses altogether, as **Keller Williams is currently rolling out a new end-to-end technology platform that is free to all KW agents.&nbsp;**
 
 If you have any other questions about the KW technology platform or about anything else, feel free to give me or my team a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
 
