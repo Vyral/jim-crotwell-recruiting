@@ -21,7 +21,7 @@ youtube_code: pYdDTmn8ug4
 
 {% include youtube.html %}
 
-As you remember,[in my last video,](https://kwcareerquest.com/how-and-why-to-track-your-tech-related-expenses.html){: target="_blank"} we talked about how a single technology platform to run your business would save you thousands of dollars and make things much more efficient.&nbsp;
+As you remember,&nbsp;[in my last video,](https://kwcareerquest.com/how-and-why-to-track-your-tech-related-expenses.html){: target="_blank"} we talked about how a single technology platform to run your business would save you thousands of dollars and make things much more efficient.&nbsp;
 
 Now, we’ll examine the pieces of that platform.&nbsp;
 
