@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will You Join Us for Our Next Mastermind?
-date: 2019-07-23 20:35:31
+date: 2019-07-23 08:35:00
 tags:
   - Lead Generation
 excerpt: >-
