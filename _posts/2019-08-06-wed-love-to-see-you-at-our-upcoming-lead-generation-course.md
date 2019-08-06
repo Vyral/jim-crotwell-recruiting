@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’d Love to See You at Our Upcoming Lead Generation Course
-date: 2019-08-06 21:30:06
+date: 2019-08-06 09:30:00
 tags:
   - Lead Generation
 excerpt: >-
