@@ -32,7 +32,7 @@ Now, let me ask you a question: What was the last class you attended at your off
 
 Basically, your business can be broken down into three categories: lead generation, lead follow-up, and transacting. They’re all equally important, but on September 12, **we’ll delve deeper into new ways and strategies to improve your lead generation.&nbsp;**
 
-What we won’t do is overwhelm you with 50 different strategies and wish you luck in implementing all of them. We’ll do two things instead: First, w**e’ll underscore two or three strategies to work into your business,** which will help maximize your lead generation.&nbsp;
+What we won’t do is overwhelm you with 50 different strategies and wish you luck in implementing all of them. We’ll do two things instead: First, **w****e’ll underscore two or three strategies to work into your business,** which will help maximize your lead generation.&nbsp;
 
 Secondly, **we’ll talk a lot about follow-up**—how to do it and when to do it. If you lack strong follow-up skills, I can guarantee you’re leaving money on the table and missing opportunities for business. &nbsp;
 
