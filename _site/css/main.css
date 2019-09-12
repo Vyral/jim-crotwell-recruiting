@@ -1336,7 +1336,6 @@ html[xmlns] .flexslider .slides {
   max-width: 65%; }
 
 .navbar-nav > li {
-  margin-right: 10px;
   margin-bottom: 0px;
   transition: all 0.15s ease-out 0s; }
 
@@ -2323,12 +2322,13 @@ table tr, table td {
   max-width: 200px; }
 
 .about-container {
-  display: flex;
+  display: inline-block;
   justify-content: center;
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: flex; }
+    display: inline-block;
+    text-align: center; }
 
 .about-text {
   display: flex;

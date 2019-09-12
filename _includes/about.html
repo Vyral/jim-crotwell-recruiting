@@ -2,7 +2,7 @@
 		<div class="row">
 			<div class="col-lg-10 col-lg-offset-1">
 
-				<h4>About {{site.data.settings.client.name}}</h4>
+				<h4>About {{site.data.settings.client.brand}}</h4>
 			</div>
 		</div>
 	<div class="row">
@@ -12,31 +12,22 @@
 				<div class="client-image-container">
 					<img src="{{site.data.settings.images.client_headshot_path }}" alt="{{site.data.settings.client.company}}" class="client-image" />
 				</div><br />
+				<strong>Jim Crotwell</strong><br>
+				<a href="tel:1-760-496-3920">760-496-3920</a><br>
+				DRE #01851267
 			</div>
 		<div class="col-lg-6 col-md-8 hidden-sm hidden-xs about-text">
 			{{site.data.settings.client.about_markdown | markdownify }}
 		</div>
-		<div class="col-lg-3">
-			<p class="contact-text">
-				<b>{{ site.data.settings.client.name }}</b><br />
-				{% if site.data.settings.client.license_number != null %}
-				{{ site.data.settings.client.license_number }}</br>
-				{% endif %}
-				{{ site.data.settings.client.brand }}<br />
-				{% if site.data.settings.client.brokerage != null %}
-				{{ site.data.settings.client.brokerage }}<br />
-				{% endif %}
-				{{ site.data.settings.client.address }}<br />
-				{% if site.data.settings.client.phone2 != null %}
-				{{ site.data.settings.client.phone_type }}: {{ site.data.settings.client.phone }}<br />
-				{{ site.data.settings.client.phone2_type }}: {{ site.data.settings.client.phone2 }}<br />
-				{% else %}
-				{{ site.data.settings.client.phone }}<br />
-				{% endif %}
-				<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
-				<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
-			</p>
-		</div>
+		<div class="col-lg-3 col-md-4 hidden-sm hidden-xs">
+
+				<div class="client-image-container">
+					<img src="{{site.data.settings.images.client_headshot_path2 }}" alt="{{site.data.settings.client.company}}" class="client-image" />
+				</div><br />
+				<strong>Sara Smerillo</strong><br>
+				<a href="tel:1-760-476-9997">760-476-9997</a><br>
+				DRE# 02042578
+			</div>
 	</div>
 </div>
 </div>
