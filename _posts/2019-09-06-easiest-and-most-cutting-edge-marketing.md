@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Keller Williams Command: Built by Agents, for Agents'
-date: 2019-09-06 16:27:15
+title: Easiest and Most Cutting Edge Marketing
+date: 2019-09-06 16:27:00
 tags:
   - Lead Generation
 excerpt: >-
