@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Keys to Effective Marketing
-date: 2019-09-30 15:45:22
+date: 2019-09-30 03:45:00
 tags:
   - Lead Generation
 excerpt: >-
