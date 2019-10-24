@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Use Landing Pages?
-date: 2019-10-21 20:14:51
+title: Do You Provide a Curated Consumer Experience?
+date: 2019-10-21 20:14:00
 tags:
   - Lead Conversion
 excerpt: >-
