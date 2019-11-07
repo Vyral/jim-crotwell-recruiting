@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Compound Effect?
-date: 2019-11-07 22:38:42
+date: 2019-11-07 22:38:00
 tags:
   - Transaction Management
 excerpt: >-
