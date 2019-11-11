@@ -31,11 +31,11 @@ For example, if you wake up every morning and tell yourself that it will be a gr
 
 Of course, this is easier said than done, which is why we’d like to recommend an incredible resource to help you start shifting your mindset for the better. This resource is none other than Darren Hardy’s amazing book “The Compound Effect.” **The main idea behind this book is that every action and thought you engage in each day will eventually compound into something larger over time.&nbsp;**
 
-Think of it this way: Spending $4 on a latte might not seem like a big deal, but this little splurge becomes a big expense if it you make it a daily habit. To put this in perspective, a person who spent $4 on coffee every day for 20 years would have, over that time, spent a total of $51,000 on their morning beverages.
+Think of it this way: Spending $4 on a latte might not seem like a big deal, but this little splurge becomes a big expense if you make it a daily habit. To put this in perspective, a person who spent $4 on coffee every day for 20 years would have, over that time, spent a total of $51,000 on their morning beverages.
 
 This idea doesn’t just apply to money. It also applies to your time, energy, and thoughts. Your small actions, over time, will always compound, for better or for worse.&nbsp;
 
-**“The Compound Effect” explores six key areas of life that will this concept impacts: health, happiness, income, career, and relationships.&nbsp;**
+**"The Compound Effect” explores six key areas of life that this concept impacts.**
 
 The bottom line is that becoming aware of this effect gives you the power to decide what small actions you’ll take every day with a clear understanding of how they will impact you over time. The power to change your future is in your hands.
 
