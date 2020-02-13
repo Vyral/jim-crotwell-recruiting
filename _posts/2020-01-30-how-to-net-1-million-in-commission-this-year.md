@@ -42,4 +42,6 @@ Come into the office, or we can meet for coffee—either way, we can both accomp
 
 If you have any other real estate-related questions, feel free to reach out to me for those answers, too. I’m always happy to help.&nbsp;
 
+\*Formula based on averages, does not guarantee any level of success
+
 &nbsp;
