@@ -54,4 +54,35 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="{{site.data.settings.site_colors.theme_color}}">
+
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script>
+		function onContactSubmit(token) {
+		document.getElementById("contact-form").submit();
+	}
+
+	function onHomeValueSubmit(token) {
+	document.getElementById("home-value-form").submit();
+	}
+
+	function onHomeSearchSubmit(token) {
+	document.getElementById("home-search-form").submit();
+	}
+
+		function onJoinOurTeamSubmit(token) {
+	  document.getElementById("join-our-team-form").submit();
+	}
+
+
+		function onStrategyCallSubmit(token) {
+	  document.getElementById("strategy-call-form").submit();
+	}
+
+		function onGuaranteedOfferSubmit(token) {
+	  document.getElementById("guaranteed-offer-form").submit();
+	}
+
+	</script>
+
+
 </head>

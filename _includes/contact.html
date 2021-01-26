@@ -30,7 +30,7 @@
   <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
 </address>
 
-<form class="contact-form" method="post" action="https://formspree.io/{{site.data.settings.client.email}}">
+<form class="contact-form" method="post" action="/thankyou" id="contact-form">
   <input type="text" name="name" placeholder="Name" required>
   <input type="email" name="_replyto" placeholder="Email" required>
   <textarea name="Message" placeholder="Message"></textarea>
@@ -41,5 +41,5 @@
     <input type="text" name="_gotcha">
   </div>
 
-  <input type="submit" value="submit">
+  <button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onContactSubmit' data-badge="bottomleft">Submit</button>
 </form>
